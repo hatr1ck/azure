@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcryptjs": "^2.4.3",
+    "http-errors": "*",
     "body-parser": "^1.19.0",
-    "cookie-session": "^1.4.0",
+    "morgan": "*",
     "express": "^4.17.1",
-    "mongoose": "^5.8.6"
+    "cookie-parser": "*"
   }
 }
